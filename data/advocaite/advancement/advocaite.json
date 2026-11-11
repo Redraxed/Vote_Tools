@@ -1,0 +1,29 @@
+
+{
+  "display": {
+    "title": "Advocaite",
+    "description": "",
+    "icon": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:profile": {
+          "name": "Advocaite",
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTU4ODU2MjQzMTY2NiwKICAicHJvZmlsZUlkIiA6ICJlNzlmMzQzNmRhMjM0YjYwYTUxOTEzMzhmNWU0YWM5ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBZHZvY2FpdGUiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjczNmQ5NWEyYzA4MzYxYThiM2QxM2UyYTMwZTEwN2Y5YzM3ZjU4OTFhNGQxZTllZWQ0NjY0ZDFkOGEwY2I0MCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+            }
+          ]
+        }
+      }
+    },
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "global:root",
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

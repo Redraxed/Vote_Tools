@@ -1,0 +1,22 @@
+
+{
+  "display": {
+    "title": "Vote_Tools v1.0.0",
+    "description": [
+      {
+        "text": "Tools to allow the game to accept votes and reward players for those votes"
+      }
+    ],
+    "icon": {
+      "id": "minecraft:map"
+    },
+    "announce_to_chat": false,
+    "show_toast": false
+  },
+  "parent": "advocaite:advocaite",
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
